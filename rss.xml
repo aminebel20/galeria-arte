@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Galería de Arte - RSS</title>
+        <link>https://aminebel20.github.io/galeria-arte/</link>
+        <description>Últimas novedades de la Galería de Arte Virtual</description>
+        <language>es</language>
+
+        <item>
+            <title>Inicio</title>
+            <link>https://aminebel20.github.io/galeria-arte/index.html</link>
+            <description>Bienvenidos a la Galería de Arte Virtual</description>
+            <pubDate>Mon, 03 Feb 2025 12:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Obras de Arte</title>
+            <link>https://aminebel20.github.io/galeria-arte/obras.html</link>
+            <description>Explora nuestra colección de pinturas, esculturas y fotografías</description>
+            <pubDate>Mon, 03 Feb 2025 12:05:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Contacto</title>
+            <link>https://aminebel20.github.io/galeria-arte/contacto.html</link>
+            <description>Comunícate con nosotros para más información</description>
+            <pubDate>Mon, 03 Feb 2025 12:10:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
